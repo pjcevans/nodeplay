@@ -1,0 +1,2 @@
+Tank: Rajec, Health: 8754, Dodge: 2, Parry: 4, Block: 4000
+4000

@@ -1,0 +1,30 @@
+[
+	{
+		"name": "Alda",
+		"health": 10121,
+		"dodge": 2,
+		"parry": 4,
+		"block": 4000
+	},
+	{
+		"name": "Samthepro",
+		"health": 8895,
+		"dodge": 2,
+		"parry": 4,
+		"block": 4000
+	},
+	{
+		"name": "Woodknight",
+		"health": 9112,
+		"dodge": 2,
+		"parry": 4,
+		"block": 4000
+	},
+	{
+		"name": "Rajec",
+		"health": 8754,
+		"dodge": 2,
+		"parry": 4,
+		"block": 4000
+	}
+]
